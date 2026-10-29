@@ -1,0 +1,14 @@
+{
+  "pubkey": "SysvarC1ock11111111111111111111111111111111",
+  "account": {
+    "lamports": 1169280,
+    "data": [
+      "Z1/GHgAAAACql+JqAAAAAKsEAAAAAAAArAQAAAAAAADf3+JqAAAAAA==",
+      "base64"
+    ],
+    "owner": "Sysvar1111111111111111111111111111111111111",
+    "executable": false,
+    "rentEpoch": 18446744073709551615,
+    "space": 40
+  }
+}
